@@ -1,0 +1,16 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+canvas{
+  background-color: black;
+}
+
+.page{
+  height: 20rem;
+  width: 100%;
+  background-color: red;
+}
